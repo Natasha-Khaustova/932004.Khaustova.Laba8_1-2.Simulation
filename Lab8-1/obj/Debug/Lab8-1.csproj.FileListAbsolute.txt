@@ -1,0 +1,20 @@
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\bin\Debug\Lab8-1.exe.config
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\bin\Debug\Lab8-1.exe
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\bin\Debug\Lab8-1.pdb
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\obj\Debug\Lab8-1.csproj.AssemblyReference.cache
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\obj\Debug\Lab8_1.Form1.resources
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\obj\Debug\Lab8_1.Properties.Resources.resources
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\obj\Debug\Lab8-1.csproj.GenerateResource.cache
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\obj\Debug\Lab8-1.csproj.CoreCompileInputs.cache
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\obj\Debug\Lab8-1.exe
+C:\Users\chaly\source\repos\Lab8-1\Lab8-1\obj\Debug\Lab8-1.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\bin\Debug\Lab8-1.exe.config
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\bin\Debug\Lab8-1.exe
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\bin\Debug\Lab8-1.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\obj\Debug\Lab8-1.csproj.AssemblyReference.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\obj\Debug\Lab8_1.Form1.resources
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\obj\Debug\Lab8_1.Properties.Resources.resources
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\obj\Debug\Lab8-1.csproj.GenerateResource.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\obj\Debug\Lab8-1.csproj.CoreCompileInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\obj\Debug\Lab8-1.exe
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\ImModel\Lab8-1\Lab8-1\obj\Debug\Lab8-1.pdb
